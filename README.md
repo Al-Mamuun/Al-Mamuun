@@ -1,15 +1,4 @@
 
-None selected 
-
-Skip to content
-Using University of Asia Pacific Mail with screen readers
-
-Conversations
- 
-Program Policies
-Powered by Google
-Last account activity: 0 minutes ago
-Open in 1 other location · Details
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
 <h3 align="center">A passionate Backend Web Developer from Bangladesh</h3>
 
