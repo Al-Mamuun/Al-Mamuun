@@ -77,29 +77,34 @@
   </a> 
   
 </p>
-<h3 align="left">📈 My GitHub Stats:</h3>
+## 📈 My GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-mamuun&show_icons=true&locale=en&layout=compact&theme=radical" alt="al-mamuun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al-mamuun&show_icons=true&locale=en&theme=radical" alt="al-mamuun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-mamuun&theme=radical" alt="al-mamuun" /></p>
 
-<h3 align="left">🏆 My Small But Motivating Achievements:</h3>
-<p>In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trophies 🏅:</p>
+## 🏆 My Small But Motivating Achievements:
+In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trophies 🏅:
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=al-mamuun&theme=dracula" alt="al-mamuun" />
   </a>
 </p>
 
+
 ## ✍️ Enigma of Wisdom
 
 🚀 Embark on this sage journey with a cryptic morsel of developer's insight: 💡🔍
 
-> ```
-> "First do it, then do it right, then do it better."
-> ```
-> — **Addy Osmani**
+<div align="center" style="background-color: #333333; padding: 20px; border-radius: 10px; color: #FFFFFF; width: 80%; margin: auto;">
+  <p style="font-size: 20px;"> 
+    <q>First do it, then do it right, then do it better.</q>
+  </p>
+  <p style="font-size: 18px; font-style: italic; color: #FFA500;"> 
+    — Addy Osmani
+  </p>
+</div>
 
 ---
 
@@ -107,11 +112,30 @@
 
 Survey the zeniths of my contributions 🚀🌟🎓
 
-| Repository | Status |
-|------------|--------|
-| ![Al-Mamuun](https://github.com/favicon.ico) **Mamun-s-CodeVault** | 🅱️ |
-| ![Django](https://github.com/favicon.ico) **Django** | 🅱️ |
-| ![Webdevelopment](https://github.com/favicon.ico) **Webdevelopment** | 🅱️ |
+<div align="center" style="background-color: #1E1E1E; padding: 15px; border-radius: 10px; width: 60%; margin: auto;">
+  <table style="width: 100%; text-align: left; color: #FFFFFF;">
+    <thead>
+      <tr>
+        <th style="padding: 10px; border-bottom: 1px solid #FFFFFF;">Repository</th>
+        <th style="padding: 10px; border-bottom: 1px solid #FFFFFF;">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20"/> Mamun-s-CodeVault</td>
+        <td style="padding: 10px; text-align: center;">🅱️</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20"/> Django</td>
+        <td style="padding: 10px; text-align: center;">🅱️</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20"/> Webdevelopment</td>
+        <td style="padding: 10px; text-align: center;">🅱️</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 
