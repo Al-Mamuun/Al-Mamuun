@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
 <h3 align="center">A Passionate Backend Web Developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="250" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<img align="left" alt="Coding" width="250" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamuun" />
