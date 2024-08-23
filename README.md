@@ -1,16 +1,18 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h1>Hi 👋, I'm Abdullah Al Mamun</h1>
-    <p>A Passionate Backend Web Developer from Bangladesh</p>
-    <ul>
-      <li>🔧 I’m currently working on <strong>Python and Django</strong></li>
-      <li>🌱 I’m currently learning <strong>Django, REST API</strong></li>
-      <li>💬 Ask me about <strong>Python, Django</strong></li>
-      <li>📫 How to reach me: <a href="mailto:almaamun112020@gmail.com">almaamun112020@gmail.com</a></li>
-    </ul>
-  </div>
-  <img align="right" alt="Coding" width="250" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" style="margin-left: 20px;">
-</div>
+<h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
+<h3 align="center">A Passionate Backend Web Developer from Bangladesh</h3>
+
+<img align="left-middle" alt="Coding" width="250" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" style="margin-left: 20px;">
+
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamuun" />
+</p>
+
+- 🔭 I’m currently working on Python and Django
+- 🌱 I’m currently learning Django, REST API
+- 💬 Ask me about Python, Django
+- 📫 How to reach me almamun112020@gmail.com
 
 
 ## Connect with me:
