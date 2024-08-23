@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
 <h3 align="center">A passionate Backend Web Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
+<img align="right" alt="Coding" width="400" scr="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamuun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-mamuun" alt="al-mamuun" /></a> </p>
