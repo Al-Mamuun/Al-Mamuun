@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
 <h3 align="center">A Passionate Backend Web Developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<div style="display: flex;">
+  <div style="flex: 1;">
+    - 🔭 I’m currently working on **Python and Django**<br>
+    - 🌱 I’m currently learning **Django, REST API**<br>
+    - 💬 Ask me about **Python, Django**<br>
+    - 📫 How to reach me **almamun112020@gmail.com**
+  </div>
+  <div>
+    <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+  </div>
+</div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamuun" />
@@ -13,10 +24,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Python and Django**
-- 🌱 I’m currently learning **Django, REST API**
-- 💬 Ask me about **Python, Django**
-- 📫 How to reach me **almamun112020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
