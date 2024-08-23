@@ -9,7 +9,7 @@
       <li>📫 How to reach me: <a href="mailto:almaamun112020@gmail.com">almaamun112020@gmail.com</a></li>
     </ul>
   </div>
-  <img alt="Coding" width="250" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" style="margin-left: 20px;">
+  <img align="right" alt="Coding" width="250" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" style="margin-left: 20px;">
 </div>
 
 
