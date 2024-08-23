@@ -77,6 +77,8 @@
   </a> 
 </p>
 
+<h3 align="left">🏆 My Small But Motivating Achievements:</h3>
+<p>In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trophies 🏅:</p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=al-mamuun&theme=dracula" alt="al-mamuun" />
