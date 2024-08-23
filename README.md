@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
 <h3 align="center">A Passionate Backend Web Developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamuun" />
@@ -107,35 +107,6 @@ In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trop
 </div>
 
 ---
-
-## 🔝 Pinnacles of Ingenuity
-
-Survey the zeniths of my contributions 🚀🌟🎓
-
-<div align="center" style="background-color: #1E1E1E; padding: 15px; border-radius: 10px; width: 50%; margin: auto;">
-  <table style="width: 100%; text-align: left; color: #FFFFFF; border-collapse: collapse;">
-    <thead>
-      <tr style="border-bottom: 2px solid #FFFFFF;">
-        <th style="padding: 10px; text-align: center;">Repository</th>
-        <th style="padding: 10px; text-align: center;">Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20" style="vertical-align: middle;"/> Mamun-s-CodeVault</td>
-        <td style="padding: 10px; text-align: center;"><span style="background-color: #FF5F7E; color: #FFFFFF; padding: 5px 10px; border-radius: 5px;">🅱️</span></td>
-      </tr>
-      <tr>
-        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20" style="vertical-align: middle;"/> Django</td>
-        <td style="padding: 10px; text-align: center;"><span style="background-color: #FF5F7E; color: #FFFFFF; padding: 5px 10px; border-radius: 5px;">🅱️</span></td>
-      </tr>
-      <tr>
-        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20" style="vertical-align: middle;"/> Webdevelopment</td>
-        <td style="padding: 10px; text-align: center;"><span style="background-color: #FF5F7E; color: #FFFFFF; padding: 5px 10px; border-radius: 5px;">🅱️</span></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 
 
