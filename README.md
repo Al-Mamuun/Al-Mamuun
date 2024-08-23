@@ -112,30 +112,31 @@ In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trop
 
 Survey the zeniths of my contributions 🚀🌟🎓
 
-<div align="center" style="background-color: #1E1E1E; padding: 15px; border-radius: 10px; width: 60%; margin: auto;">
-  <table style="width: 100%; text-align: left; color: #FFFFFF;">
+<div align="center" style="background-color: #1E1E1E; padding: 15px; border-radius: 10px; width: 50%; margin: auto;">
+  <table style="width: 100%; text-align: left; color: #FFFFFF; border-collapse: collapse;">
     <thead>
-      <tr>
-        <th style="padding: 10px; border-bottom: 1px solid #FFFFFF;">Repository</th>
-        <th style="padding: 10px; border-bottom: 1px solid #FFFFFF;">Status</th>
+      <tr style="border-bottom: 2px solid #FFFFFF;">
+        <th style="padding: 10px; text-align: center;">Repository</th>
+        <th style="padding: 10px; text-align: center;">Status</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20"/> Mamun-s-CodeVault</td>
-        <td style="padding: 10px; text-align: center;">🅱️</td>
+        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20" style="vertical-align: middle;"/> Mamun-s-CodeVault</td>
+        <td style="padding: 10px; text-align: center;"><span style="background-color: #FF5F7E; color: #FFFFFF; padding: 5px 10px; border-radius: 5px;">🅱️</span></td>
       </tr>
       <tr>
-        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20"/> Django</td>
-        <td style="padding: 10px; text-align: center;">🅱️</td>
+        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20" style="vertical-align: middle;"/> Django</td>
+        <td style="padding: 10px; text-align: center;"><span style="background-color: #FF5F7E; color: #FFFFFF; padding: 5px 10px; border-radius: 5px;">🅱️</span></td>
       </tr>
       <tr>
-        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20"/> Webdevelopment</td>
-        <td style="padding: 10px; text-align: center;">🅱️</td>
+        <td style="padding: 10px;"><img src="https://github.com/favicon.ico" width="20" style="vertical-align: middle;"/> Webdevelopment</td>
+        <td style="padding: 10px; text-align: center;"><span style="background-color: #FF5F7E; color: #FFFFFF; padding: 5px 10px; border-radius: 5px;">🅱️</span></td>
       </tr>
     </tbody>
   </table>
 </div>
+
 
 
 
