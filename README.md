@@ -4,22 +4,6 @@
 ![Alt Text](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)
 
 
-<div style="display: flex; align-items: center;">
-
-<div style="flex: 1;">
-  <h3>🔭 I’m currently working on Python and Django</h3>
-  <h3>🌱 I’m currently learning Django, REST API</h3>
-  <h3>💬 Ask me about Python, Django</h3>
-  <h3>📫 How to reach me: almamun112020@gmail.com</h3>
-</div>
-
-<div style="flex: 1;">
-  <img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="Coding" style="width: 250px;">
-</div>
-
-</div>
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamuun" />
 </p>
