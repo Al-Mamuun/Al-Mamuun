@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamuun" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=al-mamuun&theme=dracula" alt="al-mamuun" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **Python and Django**
 - 🌱 I’m currently learning **Django, REST API**
 - 💬 Ask me about **Python, Django**
@@ -81,6 +75,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=al-mamuun&theme=dracula" alt="al-mamuun" />
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-mamuun&show_icons=true&locale=en&layout=compact&theme=radical" alt="al-mamuun" /></p>
