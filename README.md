@@ -97,10 +97,10 @@ In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trop
 
 <div align="center">
   <p>
-    <strong><em>"First do it, then do it right, then do it better."</em></strong>
+    <strong><em>"First, solve the problem. Then, write the code"</em></strong>
   </p>
   <p style="color: #FFA500;">
-    — Addy Osmani
+    —  John Johnson
   </p>
 </div>
 
