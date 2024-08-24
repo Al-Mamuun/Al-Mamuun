@@ -75,6 +75,7 @@
 </p>
 
 ## 📈 My GitHub Stats:
+Witness my GitHub saga—where commits, challenges, and creations intertwine. 🚀📚🔗
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-mamuun&show_icons=true&locale=en&layout=compact&theme=radical" alt="al-mamuun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al-mamuun&show_icons=true&locale=en&theme=radical" alt="al-mamuun" /></p>
