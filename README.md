@@ -95,14 +95,15 @@ In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trop
 
 🚀 Embark on this sage journey with a cryptic morsel of developer's insight: 💡🔍
 
-<div align="center" style="background-color: #333333; padding: 20px; border-radius: 10px; color: #FFFFFF; width: 80%; margin: auto;">
-  <p style="font-size: 20px;"> 
-    <q>First do it, then do it right, then do it better.</q>
+<div align="center">
+  <p>
+    <strong><em>"First do it, then do it right, then do it better."</em></strong>
   </p>
-  <p style="font-size: 18px; font-style: italic; color: #FFA500;"> 
+  <p style="color: #FFA500;">
     — Addy Osmani
   </p>
 </div>
+
 
 ---
 
