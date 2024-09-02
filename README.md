@@ -104,8 +104,12 @@ In the arena of code 🏁, accolades adorn the valorous 🏆. Here stand my trop
   </p>
 </div>
 
+## 🐍 Snake Game
+
+![Snake animation](https://github.com/al-mamuun/al-mamuun/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
 
 
 
