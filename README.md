@@ -82,7 +82,7 @@
 ## 🏆 My Small But Motivating Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=al-mamuun&theme=algolia&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=al-mamuun&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 ---
