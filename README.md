@@ -77,10 +77,11 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=al-mamuun&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-mamuun&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
