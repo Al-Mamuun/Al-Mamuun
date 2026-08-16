@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
-<h3 align="center">🚀 Backend Web Developer | Django & REST API Enthusiast | Competitive Programmer 🇧🇩</h3>
+<h1 align="center">👋 Hi, I'm Abdullah Al Mamun</h1>
 
-<p align="center">
-  <img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" width="250"/>
-</p>
+<h3 align="center"> 🚀 CSE Graduate | Full-Stack Developer in Progress | MERN & Backend Enthusiast 🇧🇩 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Learning+MERN+Stack+%F0%9F%9A%80;Programming+Hero+Level+2+%F0%9F%93%9A;Building+Real-World+Projects+%F0%9F%92%BB;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Turning+Ideas+Into+Code+%E2%9A%A1" alt="Typing SVG" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
 
 ---
 
