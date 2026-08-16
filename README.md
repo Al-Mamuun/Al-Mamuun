@@ -92,3 +92,8 @@
 </p>
 
 ---
+
+
+<p align="center"> <b>💻 Keep Learning • Keep Building • Keep Growing 🚀</b> </p>
+
+<p align="center"> ⭐ Thanks for visiting my profile! </p>
