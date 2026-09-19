@@ -1,22 +1,74 @@
-<h1 align="center">👋 Hi, I'm Abdullah Al Mamun</h1>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdullah%20Al%20Mamun&fontSize=42&fontAlignY=32&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/> </div>
 
-<h3 align="center"> 🚀 CSE Graduate | Full-Stack Developer in Progress | MERN & Backend Enthusiast 🇧🇩 </h3>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3BADE8&center=true&vCenter=true&repeat=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;Learning+MERN+Stack+%F0%9F%9A%80;Python+%7C+Django+%7C+JavaScript+%7C+React;Building+Real-World+Projects+%E2%9A%A1" alt="Typing SVG" /> </div>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Learning+MERN+Stack+%F0%9F%9A%80;Programming+Hero+Level+2+%F0%9F%93%9A;Building+Real-World+Projects+%F0%9F%92%BB;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Turning+Ideas+Into+Code+%E2%9A%A1" alt="Typing SVG" /> </p>
+<br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=al-mamuun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/al-mamuun?label=Followers&style=for-the-badge&color=blue" alt="Followers"/> </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
 
-- 🔭 Currently building scalable apps using **Python & Django**
-- 🌱 Learning **Django REST Framework & System Design**
-- 💬 Ask me about **Backend Development & APIs**
-- 📫 Reach me at: **almamun19403@gmail.com**
-- ⚡ Fun fact: I love solving algorithmic problems before writing actual code 😄
+# 🧑‍💻 About Me
 
----
+<div align="center">
+
+<h3>🚀 Building Today. Learning Every Day. Growing Into a Software Engineer.</h3>
+
+<p> I'm a <strong>CSE Graduate</strong> from Bangladesh 🇧🇩 with a strong interest in <strong>Backend Development</strong> and <strong>Full-Stack Web Development</strong>. </p>
+
+<p> My primary focus is <strong>Python & Django</strong>, while I'm currently expanding my skills in the <strong>MERN Stack</strong> and modern JavaScript development. </p>
+
+<p> I enjoy building practical applications, working with REST APIs and databases, and improving my problem-solving and software engineering skills through real projects. </p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table width="90%">
+
+<tr>
+
+<td align="center" width="33%">
+
+💻 Build
+
+Real-World Projects
+Backend Applications
+REST APIs
+
+</td>
+
+<td align="center" width="33%">
+
+📚 Learn
+
+Django & DRF
+React & Node.js
+System Design
+
+</td>
+
+<td align="center" width="33%">
+
+🎯 Grow
+
+Problem Solving
+Software Engineering
+Full-Stack Development
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
 
 # 🌐 Connect With Me
 
@@ -33,33 +85,57 @@
 
 </p>
 
----
+# 💼 Tech Stack
 
-# 💻 Tech Stack
+<div align="center">
 
-### 🖥️ Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<table align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<tr>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<td align="center" width="50%" valign="top">
 
-### ⚙️ Programming & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+🧠 Backend & Frameworks
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+</td>
+
+<td align="center" width="50%" valign="top">
+
+🎨 Frontend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%" valign="top">
+
+🗄️ Database
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</td>
+
+<td align="center" width="50%" valign="top">
+
+⚙️ Programming & Tools
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
 
 📊 GitHub Statistics
 
