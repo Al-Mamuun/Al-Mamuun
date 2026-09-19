@@ -61,26 +61,28 @@
 
 ---
 
-# 📊 GitHub Analytics
+📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al-mamuun&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=al-mamuun&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://yourinsights.vercel.app/api/insight?username=al-mamuun&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mamuun&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<br>
 
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-mamuun&theme=tokyo-night&hide_border=true"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=al-mamuun&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> -->
+  <img src="https://streak-stats.demolab.com?user=al-mamuun&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mamuun&layout=compact&theme=tokyonight&hide_border=true" height="165"/> -->
+</p>
+
 
 
 ## ✍️ Developer Mindset
